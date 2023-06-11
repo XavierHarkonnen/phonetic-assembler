@@ -1,0 +1,10 @@
+{
+  "name": "<NAME OF LANGUAGE>",
+  "note": "<NOTES FOR LANGUAGE>",
+  "phonemes": {
+    "<GRAPHEME SET 1>": "<PHONEME SET 1>",
+    "<GRAPHEME SET 2>": "<PHONEME SET 2>",
+    "<GRAPHEME SET 3>": "<PHONEME SET 3>",
+    "<...>": "<CONTINUE AS NEEDED>"
+  }
+}
